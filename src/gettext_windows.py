@@ -1,0 +1,1 @@
+/usr/local/bin/gettext_windows.py

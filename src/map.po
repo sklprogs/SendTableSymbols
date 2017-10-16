@@ -1,0 +1,1219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SendTableSymbols\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-16 15:43+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter Sklyar <skl.progs@gmail.com>\n"
+"Language-Team: Peter Sklyar <skl.progs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/pete/bin/SendTableSymbols/src\n"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:25
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:30
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:35
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:83
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:88
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:102
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:116
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:125
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:138
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:148
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:153
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:326
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:705
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:717
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:725
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:733
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:749
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:765
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:772
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:828
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1256
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1453
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1470
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1565
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1625
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1637
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1672
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1791
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2107
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2294
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2313
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2325
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2330
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2337
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2351
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2363
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2374
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2383
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2394
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2419
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2424
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2467
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2546
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2626
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2633
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2639
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2641
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2650
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2653
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2739
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2743
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2744
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2856
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2878
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2890
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2906
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2918
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3013
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3044
+#: /home/pete/bin/SendTableSymbols/src/shared.py:174
+#: /home/pete/bin/SendTableSymbols/src/shared.py:179
+#: /home/pete/bin/SendTableSymbols/src/shared.py:188
+#: /home/pete/bin/SendTableSymbols/src/shared.py:198
+#: /home/pete/bin/SendTableSymbols/src/shared.py:208
+#: /home/pete/bin/SendTableSymbols/src/shared.py:282
+#: /home/pete/bin/SendTableSymbols/src/shared.py:304
+#: /home/pete/bin/SendTableSymbols/src/shared.py:313
+#: /home/pete/bin/SendTableSymbols/src/shared.py:329
+#: /home/pete/bin/SendTableSymbols/src/shared.py:351
+#: /home/pete/bin/SendTableSymbols/src/shared.py:400
+#: /home/pete/bin/SendTableSymbols/src/shared.py:409
+#: /home/pete/bin/SendTableSymbols/src/shared.py:538
+#: /home/pete/bin/SendTableSymbols/src/shared.py:558
+#: /home/pete/bin/SendTableSymbols/src/shared.py:659
+#: /home/pete/bin/SendTableSymbols/src/shared.py:673
+#: /home/pete/bin/SendTableSymbols/src/shared.py:745
+#: /home/pete/bin/SendTableSymbols/src/shared.py:778
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1309
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1338
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1355
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1383
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1456
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1537
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1543
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1635
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1641
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1653
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1792
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1812
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1925
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2095
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2123
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2250
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2397
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2432
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2507
+#: /home/pete/bin/SendTableSymbols/src/map.py:59
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:26
+#, python-format
+msgid "Failed to enable key combination \"%s\"!"
+msgstr "Не удалось задействовать сочетание клавиш \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:31
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1638
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1673
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1981
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3042
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3047
+#, python-format
+msgid "Wrong input data: \"%s\""
+msgstr "Недопустимые входные данные: \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:36
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:327
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2108
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2295
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2314
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2331
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2338
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2352
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2364
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2375
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2384
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2395
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2468
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2962
+#: /home/pete/bin/SendTableSymbols/src/shared.py:481
+#: /home/pete/bin/SendTableSymbols/src/shared.py:674
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1728
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2342
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2413
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3119
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3214
+msgid "Wrong input data!"
+msgstr "Недопустимые входные данные!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:80
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:84
+msgid "Failed to insert the text!"
+msgstr "Не удалось вставить текст!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:89
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:103
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:117
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:126
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:139
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:154
+#, python-format
+msgid "A logic error: unknown object type: \"%s\"!"
+msgstr "Логическая ошибка: неизвестный тип объекта: \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:93
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:249
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:271
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:287
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:298
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:308
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:336
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:354
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:384
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:414
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:429
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:440
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:628
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:639
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:679
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:782
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:838
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:851
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:877
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:921
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:999
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1025
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1475
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1897
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1919
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1935
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1951
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1967
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1983
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2033
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2046
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2055
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2064
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2073
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2086
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2112
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2142
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2175
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2191
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2207
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2219
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2308
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2614
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2631
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2641
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2689
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2692
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2733
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2744
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2885
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2896
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2913
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2961
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3005
+#: /home/pete/bin/SendTableSymbols/src/shared.py:126
+#: /home/pete/bin/SendTableSymbols/src/shared.py:238
+#: /home/pete/bin/SendTableSymbols/src/shared.py:248
+#: /home/pete/bin/SendTableSymbols/src/shared.py:262
+#: /home/pete/bin/SendTableSymbols/src/shared.py:338
+#: /home/pete/bin/SendTableSymbols/src/shared.py:360
+#: /home/pete/bin/SendTableSymbols/src/shared.py:400
+#: /home/pete/bin/SendTableSymbols/src/shared.py:409
+#: /home/pete/bin/SendTableSymbols/src/shared.py:460
+#: /home/pete/bin/SendTableSymbols/src/shared.py:466
+#: /home/pete/bin/SendTableSymbols/src/shared.py:480
+#: /home/pete/bin/SendTableSymbols/src/shared.py:501
+#: /home/pete/bin/SendTableSymbols/src/shared.py:518
+#: /home/pete/bin/SendTableSymbols/src/shared.py:524
+#: /home/pete/bin/SendTableSymbols/src/shared.py:544
+#: /home/pete/bin/SendTableSymbols/src/shared.py:564
+#: /home/pete/bin/SendTableSymbols/src/shared.py:606
+#: /home/pete/bin/SendTableSymbols/src/shared.py:612
+#: /home/pete/bin/SendTableSymbols/src/shared.py:630
+#: /home/pete/bin/SendTableSymbols/src/shared.py:640
+#: /home/pete/bin/SendTableSymbols/src/shared.py:666
+#: /home/pete/bin/SendTableSymbols/src/shared.py:691
+#: /home/pete/bin/SendTableSymbols/src/shared.py:702
+#: /home/pete/bin/SendTableSymbols/src/shared.py:713
+#: /home/pete/bin/SendTableSymbols/src/shared.py:723
+#: /home/pete/bin/SendTableSymbols/src/shared.py:752
+#: /home/pete/bin/SendTableSymbols/src/shared.py:896
+#: /home/pete/bin/SendTableSymbols/src/shared.py:930
+#: /home/pete/bin/SendTableSymbols/src/shared.py:996
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1021
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1032
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1160
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1166
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1179
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1184
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1198
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1203
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1217
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1222
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1239
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1250
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1262
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1279
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1284
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1316
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1323
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1368
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1374
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1396
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1413
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1419
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1430
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1441
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1447
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1469
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1485
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1491
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1524
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1616
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1659
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1674
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1707
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1713
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1727
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1758
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1772
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1778
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1798
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1818
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1860
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1866
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1884
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1898
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1936
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1980
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1994
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2005
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2020
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2025
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2046
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2072
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2086
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2109
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2165
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2188
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2194
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2205
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2211
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2325
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2341
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2374
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2384
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2412
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2452
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2464
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2487
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2494
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2512
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2718
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2737
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2777
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2803
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2813
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2843
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2860
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2870
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2889
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2908
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2923
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2938
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2956
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2967
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2981
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2995
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3009
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3041
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3046
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3051
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3071
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3076
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3093
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3118
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3129
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3142
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3155
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3171
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3188
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3213
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3249
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3262
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3275
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3286
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3297
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3313
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3329
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3343
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3357
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3369
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3545
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3554
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3563
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3617
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3661
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3674
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:94
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:629
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:852
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1454
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1476
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2897
+#: /home/pete/bin/SendTableSymbols/src/shared.py:519
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1310
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1654
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1773
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2326
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2488
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3546
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3618
+msgid "Empty input is not allowed!"
+msgstr "Пустые входные данные не допускаются!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:120
+msgid "Text:"
+msgstr "Текст:"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:133
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:521
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:522
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:960
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:961
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1400
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1401
+msgid "Quit"
+msgstr "Выйти"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:135
+msgid "Save and close"
+msgstr "Запомнить и выйти"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:149
+#: /home/pete/bin/SendTableSymbols/src/shared.py:667
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1317
+#, python-format
+msgid "File \"%s\" has not been found!"
+msgstr "Файл \"%s\" не найден!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:229
+msgid "Find:"
+msgstr "Найти:"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:250
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:922
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2425
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2627
+#: /home/pete/bin/SendTableSymbols/src/shared.py:180
+#: /home/pete/bin/SendTableSymbols/src/shared.py:283
+#: /home/pete/bin/SendTableSymbols/src/shared.py:330
+#: /home/pete/bin/SendTableSymbols/src/shared.py:352
+#: /home/pete/bin/SendTableSymbols/src/shared.py:660
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1544
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2719
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2738
+msgid "Not enough input data!"
+msgstr "Недостаточно входных данных!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:264
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:367
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:372
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:379
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:397
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:402
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:409
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:916
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1263
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1868
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2289
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2302
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2629
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2641
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2663
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2666
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2735
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2744
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2997
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3029
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3036
+#: /home/pete/bin/SendTableSymbols/src/shared.py:294
+#: /home/pete/bin/SendTableSymbols/src/shared.py:374
+#: /home/pete/bin/SendTableSymbols/src/shared.py:417
+#: /home/pete/bin/SendTableSymbols/src/shared.py:452
+#: /home/pete/bin/SendTableSymbols/src/shared.py:731
+#: /home/pete/bin/SendTableSymbols/src/shared.py:773
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1233
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1330
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1347
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1391
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1405
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1464
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1478
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1518
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1529
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1622
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1669
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1699
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1915
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2013
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2101
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2115
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2154
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2160
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2313
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2367
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2390
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2406
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2421
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2445
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2761
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3238
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3244
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3598
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3635
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3686
+msgid "INFO"
+msgstr "ИНФОРМАЦИЯ"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:265
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:380
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:410
+msgid "No matches!"
+msgstr "Совпадений нет!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:272
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:288
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:299
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:309
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:337
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:355
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:385
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:415
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:430
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:441
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1898
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1920
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1936
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1952
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1968
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1984
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2034
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2047
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2056
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2065
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2074
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2087
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2113
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2143
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2176
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2192
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2208
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2220
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2654
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2667
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2680
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2693
+#: /home/pete/bin/SendTableSymbols/src/shared.py:239
+#: /home/pete/bin/SendTableSymbols/src/shared.py:249
+#: /home/pete/bin/SendTableSymbols/src/shared.py:263
+#: /home/pete/bin/SendTableSymbols/src/shared.py:339
+#: /home/pete/bin/SendTableSymbols/src/shared.py:361
+#: /home/pete/bin/SendTableSymbols/src/shared.py:467
+#: /home/pete/bin/SendTableSymbols/src/shared.py:525
+#: /home/pete/bin/SendTableSymbols/src/shared.py:545
+#: /home/pete/bin/SendTableSymbols/src/shared.py:565
+#: /home/pete/bin/SendTableSymbols/src/shared.py:613
+#: /home/pete/bin/SendTableSymbols/src/shared.py:631
+#: /home/pete/bin/SendTableSymbols/src/shared.py:641
+#: /home/pete/bin/SendTableSymbols/src/shared.py:692
+#: /home/pete/bin/SendTableSymbols/src/shared.py:703
+#: /home/pete/bin/SendTableSymbols/src/shared.py:714
+#: /home/pete/bin/SendTableSymbols/src/shared.py:724
+#: /home/pete/bin/SendTableSymbols/src/shared.py:753
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1167
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1185
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1204
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1223
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1240
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1251
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1263
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1285
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1375
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1397
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1420
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1431
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1448
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1470
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1492
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1617
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1660
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1675
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1714
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1779
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1799
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1819
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1867
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1885
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1899
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1937
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1995
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2006
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2026
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2047
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2073
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2087
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2110
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2166
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2195
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2212
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2385
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2453
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2465
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2495
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2513
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2778
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2804
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2814
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2844
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2861
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2871
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2890
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2909
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2924
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2939
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2957
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2968
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2982
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2996
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3010
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3052
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3077
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3094
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3130
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3143
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3156
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3172
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3189
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3250
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3263
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3276
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3287
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3298
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3314
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3330
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3344
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3358
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3370
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3662
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3675
+msgid "Operation has been canceled."
+msgstr "Операция отменена."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:368
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:398
+msgid "Only one match has been found!"
+msgstr "Найдено 1 совпадение!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:373
+msgid "No more matches, continuing from the top!"
+msgstr "Совпадений больше нет, поиск продолжен с начала!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:403
+msgid "No more matches, continuing from the bottom!"
+msgstr "Совпадений больше нет, поиск продолжен с конца!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:640
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:783
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1000
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1026
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2886
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2914
+msgid "The parent has already been destroyed."
+msgstr "Родительский виджет уже был разрушен."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:680
+#, python-format
+msgid "Failed to remove the tag %s in the widget %s in positions %s-%s!"
+msgstr "Не удалось удалить тэг %s в виджете %s для позиций %s-%s!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:691
+msgid "DEBUG-ERROR"
+msgstr "ОШИБКА ПРИ ОТЛАДКЕ"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:692
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:773
+#, python-format
+msgid "Element \"%s\" has not been found in fragment \"%s\"!"
+msgstr "Элемент \"%s\" не был найден во фрагменте \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:706
+#, python-format
+msgid "Failed to add tag \"%s\" for positions %s-%s!"
+msgstr "Не удалось добавить тэг \"%s\" для позиций %s-%s!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:718
+#, python-format
+msgid "Failed to configure tag \"%s\" to have the background of color \"%s\"!"
+msgstr "Не удалось назначить тэгу \"%s\" фон \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:726
+#, python-format
+msgid "Failed to configure tag \"%s\" to have the foreground of color \"%s\"!"
+msgstr "Не удалось назначить тэгу \"%s\" цвет \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:734
+#, python-format
+msgid "Failed to configure tag \"%s\" to have the font \"%s\"!"
+msgstr "Не удалось назначить тэгу \"%s\" шрифт \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:750
+#, python-format
+msgid "Failed to insert mark \"%s\" in position \"%s\"!"
+msgstr "Не удается вставить метку \"%s\" для позиции \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:766
+#, python-format
+msgid "Failed to remove mark \"%s\"!"
+msgstr "Не удалось удалить метку \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:829
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:839
+#, python-format
+msgid "Failed to shift screen to label \"%s\"!"
+msgstr "Не удалось сдвинуть экран до метки \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:857
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2814
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2825
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:871
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:910
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2893
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2923
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2258
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2668
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3035
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3228
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3229
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3484
+msgid "DEBUG"
+msgstr "ОТЛАДКА"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:872
+#, python-format
+msgid "Got position: \"%s\""
+msgstr "Получена позиция: \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:878
+msgid "Cannot return a cursor position!"
+msgstr "Не удалось вернуть позицию курсора!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:911
+#, python-format
+msgid "%d tags to assign"
+msgstr "Создание %d тэгов"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:917
+msgid "Spelling seems to be correct."
+msgstr "Ошибок правописания не обнаружено."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1257
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1626
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2640
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2744
+#: /home/pete/bin/SendTableSymbols/src/shared.py:314
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1642
+#, python-format
+msgid ""
+"An unknown mode \"%s\"!\n"
+"\n"
+"The following modes are supported: \"%s\"."
+msgstr ""
+"Неизвестный режим \"%s\"!\n"
+"\n"
+"Поддерживаются следующие режимы: \"%s\"."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1264
+#, python-format
+msgid "Changing \"%s\" widget geometry to \"%dx%d+%d+%d\""
+msgstr "Изменение геометрии виджета \"%s\" на \"%dx%d+%d+%d\""
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1471
+#, python-format
+msgid "Item \"%s\" is not in list!"
+msgstr "Элемент \"%s\" не в списке!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1552
+msgid "Plain text (UTF-8)"
+msgstr "Обычный текст (UTF-8)"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1553
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1554
+msgid "Web-page"
+msgstr "Веб-страница"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1555
+msgid "All files"
+msgstr "Все файлы"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1560
+msgid "Save As:"
+msgstr "Сохранить как:"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1566
+msgid "Failed to select a file!"
+msgstr "Не удалось выбрать файл!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:1792
+msgid "Failed to return selection in the Tkinter widget!"
+msgstr "Не удается вернуть диапазон выделения в виджете Tkinter!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2238
+msgid "Paste a special symbol"
+msgstr "Вставить специальный символ"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2290
+#, python-format
+msgid "Saved geometry: %s"
+msgstr "Сохранена геометрия: %s"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2303
+#, python-format
+msgid "Restoring geometry: %s"
+msgstr "Восстановление геометрии: %s"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2309
+msgid "Failed to restore geometry!"
+msgstr "Не удалось восстановить геометрию!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2326
+msgid "Failed to change window properties!"
+msgstr "Не удалось изменить свойства окна!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2420
+msgid "Failed to get the window handle!"
+msgstr "Не удалось получить дескриптор окна!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2444
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2491
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2493
+msgid "Please wait..."
+msgstr "Подождите..."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2547
+#, python-format
+msgid "Wrong font: \"%s\"!"
+msgstr "Неправильный шрифт: \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2615
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2817
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2825
+msgid "Message"
+msgstr "Сообщение"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2633
+msgid "CRITICAL"
+msgstr "КРИТИЧЕСКАЯ ОШИБКА"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2635
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2641
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2676
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2679
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2737
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2744
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2783
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2789
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3021
+#: /home/pete/bin/SendTableSymbols/src/shared.py:141
+msgid "QUESTION"
+msgstr "ВОПРОС"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2792
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2806
+msgid "Accept and close"
+msgstr "Принять и закрыть"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2800
+msgid "Reject and close"
+msgstr "Отказаться и закрыть"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2857
+#, python-format
+msgid "Picture \"%s\" was not found!"
+msgstr "Изображение \"%s\" не найдено!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2879
+msgid "A clipboard error has occurred!"
+msgstr "Ошибка буфера обмена!"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2891
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2919
+msgid "An unknown error has occurred."
+msgstr "Произошла неизвестная ошибка."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2907
+msgid "Failed to paste the clipboard contents!"
+msgstr "Ошибка вставки из буфера обмена."
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:2998
+#, python-format
+msgid "Add %s"
+msgstr "Добавить %s"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3037
+#, python-format
+msgid "Close %d objs"
+msgstr "Закрыть %d объектов"
+
+#: /home/pete/bin/SendTableSymbols/src/sharedGUI.py:3045
+#, python-format
+msgid "Widget \"%s\" does not have a \"close\" action!"
+msgstr "У виджета \"%s\" нет действия \"close\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:142
+#, python-format
+msgid "ATTENTION: Do yo really want to rewrite file \"%s\"?"
+msgstr "ВНИМАНИЕ: Перезаписать файл \"%s\"?"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:175
+#, python-format
+msgid "Failed to run \"%s\"!"
+msgstr "Не удалось запустить \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:189
+#: /home/pete/bin/SendTableSymbols/src/shared.py:199
+#: /home/pete/bin/SendTableSymbols/src/shared.py:209
+msgid "Unable to open the file in an external program. You should probably check the file associations."
+msgstr "Не удается открыть файл во внешней программе. Возможно, Вам стоит проверить ассоциации файлов."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:295
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1623
+#, python-format
+msgid "Write file \"%s\""
+msgstr "Запись файла \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:305
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1636
+#, python-format
+msgid "Unable to write file \"%s\"!"
+msgstr "Не удается записать файл \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:392
+msgid "***** Start of log. *****"
+msgstr "***** Начало записи лога. *****"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:453
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1700
+#, python-format
+msgid "Entries deleted: %d (%d-%d)"
+msgstr "Удалено вхождений: %d (%d-%d)"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:461
+#: /home/pete/bin/SendTableSymbols/src/shared.py:607
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1708
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1861
+#, python-format
+msgid "File \"%s\" is not sortable!"
+msgstr "Файл \"%s\" не подлежит сортировке!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:502
+#, python-format
+msgid "Dictionary \"%s\": Incorrect line #%d: \"%s\"!"
+msgstr "Словарь \"%s\": Неправильная строка №%d: \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:539
+#: /home/pete/bin/SendTableSymbols/src/shared.py:559
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1793
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1813
+#, python-format
+msgid "The condition \"%s\" is not observed!"
+msgstr "Условие \"%s\" не выполнено!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:732
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1916
+#, python-format
+msgid "Load file \"%s\""
+msgstr "Загрузка файла \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:746
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1926
+#, python-format
+msgid "Unable to read file \"%s\"!"
+msgstr "Не удается прочитать файл \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:774
+#, python-format
+msgid "Convert \"%s\" to an integer"
+msgstr "Конвертация \"%s\" в целое число"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:779
+#, python-format
+msgid "Integer is required at input, but found \"%s\"! Return 0"
+msgstr "На входе должно быть целое число, но получено \"%s\"! Возвращаю 0"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:931
+msgid "Empty strings are not supported!"
+msgstr "Поддерживаются только непустые строки!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:997
+msgid "Commas and/or semicolons or line breaks can be used, but not altogether!"
+msgstr "Можно использовать запятые и/или точки с запятой или переносы строк, но не все сразу!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1022
+#, python-format
+msgid "Failed to convert \"%s\" to an integer!"
+msgstr "Не удалось конвертировать \"%s\" в целое число!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1033
+#, python-format
+msgid "Failed to convert \"%s\" to a floating-point number!"
+msgstr "Не удалось конвертировать \"%s\" в число с плавающей точкой!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1161
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1180
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1199
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1218
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1280
+msgid "Set time parameters are incorrect or not supported."
+msgstr "Заданные параметры времени неверны или не поддерживаются."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1234
+msgid "Note: it will be Monday!"
+msgstr "Обратите внимание: указанная дата - понедельник!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1324
+#, python-format
+msgid "The object \"%s\" is not a file!"
+msgstr "Объект \"%s\" не является файлом!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1331
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2116
+#, python-format
+msgid "Copy \"%s\" to \"%s\""
+msgstr "Копирование \"%s\" в \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1339
+#, python-format
+msgid "Failed to copy file \"%s\" to \"%s\"!"
+msgstr "Не удалось скопировать файл \"%s\" в \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1348
+#, python-format
+msgid "Move \"%s\" to \"%s\""
+msgstr "Перемещение \"%s\" в \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1356
+#, python-format
+msgid "Failed to move \"%s\" to \"%s\"!"
+msgstr "Не удалось переместить \"%s\" в \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1369
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1442
+#, python-format
+msgid "Failed to get the date of the file \"%s\"!"
+msgstr "Не удалось определить дату файла \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1384
+#, python-format
+msgid "Unable to copy the file \"%s\" to iself!"
+msgstr "Нельзя скопировать файл \"%s\" сам в себя!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1392
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1465
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1670
+msgid "Operation has been canceled by the user."
+msgstr "Операция отменена пользователем."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1406
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2014
+#, python-format
+msgid "Delete \"%s\""
+msgstr "Удаление \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1414
+#, python-format
+msgid "Failed to delete file \"%s\"!"
+msgstr "Не удается удалить файл \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1457
+msgid "Moving is not necessary, because the source and destination are identical."
+msgstr "Перемещение не требуется, поскольку на входе и выходе указан один и тот же объект."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1479
+#, python-format
+msgid "Change the time of the file \"%s\" to %s"
+msgstr "Изменение времени файла \"%s\" на %s"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1486
+#, python-format
+msgid "Failed to change the time of the file \"%s\" to \"%s\"!"
+msgstr "Не удалось изменить время файла \"%s\" на \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1519
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2102
+#, python-format
+msgid "Directory \"%s\" already exists."
+msgstr "Каталог \"%s\" уже существует."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1525
+#, python-format
+msgid "The path \"%s\" is invalid!"
+msgstr "Путь \"%s\" неверен!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1530
+#, python-format
+msgid "Create directory \"%s\""
+msgstr "Создание каталога \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1538
+#, python-format
+msgid "Failed to create directory \"%s\"!"
+msgstr "Не удается создать каталог \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:1759
+msgid "The following lines cannot be parsed:"
+msgstr "Не удалось обработать следующие строки:"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2021
+#, python-format
+msgid "Failed to delete directory \"%s\"! Delete it manually."
+msgstr "Не удается удалить каталог \"%s\"! Удалите его вручную."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2096
+#, python-format
+msgid "Unable to copy \"%s\" to iself!"
+msgstr "Нельзя скопировать \"%s\" сам в себя!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2124
+#, python-format
+msgid "Failed to copy \"%s\" to \"%s\"!"
+msgstr "Не удалось скопировать \"%s\" в \"%s\"!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2141
+msgid "The following sections and/or keys are missing:"
+msgstr "Отсутствуют следующие разделы и/или ключи:"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2155
+#, python-format
+msgid "New value of the key \"%s\" has been loaded."
+msgstr "Загружено новое значение ключа \"%s\"."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2161
+#, python-format
+msgid "Keys loaded in total: %d, whereas %d are modified."
+msgstr "Всего загружено ключей: %d, из них измененных: %d"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2184
+#, python-format
+msgid "Missing sections: %d"
+msgstr "Отсутствующих разделов: %d"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2185
+#, python-format
+msgid "Missing keys: %d"
+msgstr "Отсутствующих ключей: %d"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2186
+msgid "The default configuration has been loaded."
+msgstr "Загружена конфигурация по умолчанию."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2206
+#, python-format
+msgid "Failed to read the configuration file \"%s\". This file must share the same directory with the program and have UTF-8 encoding (no BOM) and UNIX line break type."
+msgstr "Не удается прочитать конфигурационный файл \"%s\". Этот файл должен находиться в одном каталоге с программой и иметь кодировку utf-8 (без BOM), тип разрыва строки - UNIX."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2251
+#, python-format
+msgid "Failed to open URL \"%s\" in a default browser!"
+msgstr "Не удалось открыть адрес \"%s\" в браузере по умолчанию!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2292
+msgid "Differences:"
+msgstr "Различия:"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2314
+msgid "Texts are identical!"
+msgstr "Различий нет!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2368
+#, python-format
+msgid "Delete the symbolic link \"%s\""
+msgstr "Удаление ярлыка \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2375
+#, python-format
+msgid "Failed to remove shortcut \"%s\". Remove it manually and press OK."
+msgstr "Не удается удалить ярлык \"%s\". Удалите его вручную и нажмите OK."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2391
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2422
+#, python-format
+msgid "Create a symbolic link \"%s\""
+msgstr "Создание ярлыка \"%s\""
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2398
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2433
+#, python-format
+msgid "Failed to create shortcut \"%s\". Create it manually and press OK."
+msgstr "Не удается создать ярлык \"%s\". Создайте его вручную и нажмите OK."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2407
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2446
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3239
+msgid "Nothing to do."
+msgstr "Действие не требуется."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2508
+msgid "Failed to load an e-mail client."
+msgstr "Не удалось загрузить почтовый клиент."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:2762
+msgid "Analyze the text"
+msgstr "Анализ текста"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3072
+#, python-format
+msgid "Failed to find words of paragraph #%d!"
+msgstr "Не удалось найти слова абзаца #%d!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3245
+msgid "Perform actions"
+msgstr "Выполнение операций"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3555
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3564
+msgid "The pool is empty!"
+msgstr "Пул пуст!"
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3599
+#, python-format
+msgid "The operation has taken %f s."
+msgstr "Операция завершена за %f с."
+
+#: /home/pete/bin/SendTableSymbols/src/shared.py:3636
+#, python-format
+msgid "Set the max number of rows to %d"
+msgstr "Задать максимальное число столбцов: %d"
+
+#: /home/pete/bin/SendTableSymbols/src/map.py:60
+msgid "This operation cannot be executed on your operating system."
+msgstr "Данная операция не поддерживается на вашей операционной системе."
+
