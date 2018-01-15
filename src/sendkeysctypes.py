@@ -301,9 +301,8 @@ class KeySequenceError(Exception):
 
 class KeyAction(object):
     """Class that represents a single 'keyboard' action
-
-    It represents either a PAUSE action (not really keyboard) or a keyboard
-    action (press or release or both) of a particular key.
+       It represents either a PAUSE action (not really keyboard) or
+       a keyboard action (press or release or both) of a particular key.
     """
 
     def __init__(self, key, down = True, up = True):
@@ -316,7 +315,8 @@ class KeyAction(object):
     def _get_key_info(self):
         """Return virtual_key, scan_code, and flags for the action
         
-        This is one of the methods that will be overridden by sub classes"""
+        This is one of the methods that will be overridden by
+        sub classes"""
         return 0, ord(self.key), KEYEVENTF_UNICODE
 
     def GetInput(self):
@@ -586,7 +586,9 @@ def parse_keys(string,
 
         # so it is a normal character
         else:
-            # don't output white space unless flags to output have been set
+            ''' don't output white space unless flags to output have
+                been set
+            '''
             if (c == ' ' and not with_spaces or
                 c == '\t' and not with_tabs or
                 c == '\n' and not with_newlines):

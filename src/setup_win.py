@@ -16,6 +16,6 @@ executables = [Executable ('map.py'
 setup (name        = 'map.py'
       ,version     = '1.0'
       ,description = 'Paste a special symbol into an external application'
-      ,options = dict(build_exe=buildOptions)
+      ,options     = dict(build_exe=buildOptions)
       ,executables = executables
       )

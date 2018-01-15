@@ -47,13 +47,21 @@ class WinTray:
     def __init__(self):
         if sh.oss.win():
             sg.objs.root().widget.tk.call('package', 'require', 'Winico')
-            icon = sg.objs.root().widget.tk.call('winico', 'createfrom', os.path.join(os.getcwd(), 'map.ico'))
-            sg.objs.root().widget.tk.call('winico', 'taskbar', 'add', icon,
-                         '-callback', (sg.objs.root().widget.register(self.menu_func), '%m', '%x', '%y'),
-                         '-pos',0,
-                         '-text','Character Map') # todo: product name
+            icon = sg.objs.root().widget.tk.call ('winico',
+                                                  'createfrom',
+                                                  os.path.join(os.getcwd(),'map.ico')
+                                                 )
+            #todo: product name
+            sg.objs.root().widget.tk.call ('winico','taskbar','add',icon
+                                          ,'-callback'
+                                          ,(sg.objs.root().widget.register(self.menu_func)
+                                          ,'%m','%x','%y'),'-pos',0
+                                          ,'-text','Character Map'
+                                          )
             self.menu = tk.Menu(sg.objs.root().widget,tearoff=0)
-            # For some reason, 'self.menu.pack' is useless and does not work as expected
+            ''' For some reason, 'self.menu.pack' is useless and does
+                not work as expected
+            '''
         else:
             sg.Message (func    = 'WinTray.__init__'
                        ,level   = _('ERROR')
@@ -62,16 +70,18 @@ class WinTray:
 
     def menu_func(self,event,x,y):
         if event == 'WM_RBUTTONDOWN':
-            sg.objs.root().widget.quit() # Destroy throws an error
+            # 'destroy' throws an error
+            sg.objs.root().widget.quit()
         elif event == 'WM_LBUTTONDOWN':
             self.map()
         
     def map(self):
         result = objs.map().get()
         for sym in result:
-            keys = sendkeys.parse_keys(sym,with_newlines = True)
+            keys = sendkeys.parse_keys(sym,with_newlines=True)
         for key in keys:
             key.Run()
+
 
 
 class Objects:
@@ -81,7 +91,7 @@ class Objects:
         
     def map(self):
         if not self._map:
-            self._map = sg.SymbolMap(parent_obj=sg.objs.root())
+            self._map = sg.SymbolMap(parent=sg.objs.root())
         return self._map
 
 
