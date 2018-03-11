@@ -2,14 +2,14 @@
 # -*- coding: UTF-8 -*-
 # cmd: chcp 65001
 
+import tkinter   as tk
+import os
+import shared    as sh
+import sharedGUI as sg
+
 import gettext, gettext_windows
 gettext_windows.setup_env()
-gettext.install('map','./locale')
-
-import tkinter as tk
-import os, sys
-import shared as sh
-import sharedGUI as sg
+gettext.install('SendTableSymbols','../resources/locale')
 
 if sh.oss.win():
     import sendkeysctypes as sendkeys
@@ -19,10 +19,13 @@ class ConfigMap(sh.Config):
     
     def __init__(self):
         super().__init__()
-        self.path = sh.objs.pdir().add('map.cfg')
+        self.path = sh.objs.pdir().add ('..'
+                                       ,'user'
+                                       ,'SendTableSymbols.cfg'
+                                       )
         self.reset()
-        h_read = sh.ReadTextFile(self.path,Silent=self.Silent)
-        self.text = h_read.get()
+        h_read       = sh.ReadTextFile(self.path)
+        self.text    = h_read.get()
         self.Success = h_read.Success
         self._default()
         if os.path.exists(self.path):
@@ -47,9 +50,13 @@ class WinTray:
     def __init__(self):
         if sh.oss.win():
             sg.objs.root().widget.tk.call('package', 'require', 'Winico')
+            path = sh.objs.pdir().add ('..'
+                                       ,'resources'
+                                       ,'SendTableSymbols.ico'
+                                       )
             icon = sg.objs.root().widget.tk.call ('winico',
                                                   'createfrom',
-                                                  os.path.join(os.getcwd(),'map.ico')
+                                                  path
                                                  )
             #todo: product name
             sg.objs.root().widget.tk.call ('winico','taskbar','add',icon
@@ -96,7 +103,8 @@ class Objects:
 
 
 if __name__ == '__main__':
+    sg.objs.start()
     objs = Objects()
     ConfigMap()
     WinTray()
-    sg.objs.root().run()
+    sg.objs.end()
