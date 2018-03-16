@@ -13,7 +13,7 @@ executables = [Executable ('SendTableSymbols.py'
                           )
               ]
 
-setup (name        = 'SendTableSymbols.py'
+setup (name        = 'SendTableSymbols'
       ,version     = '1.0'
       ,description = 'Paste a special symbol into an external application'
       ,options     = dict(build_exe=buildOptions)
